@@ -1,0 +1,3 @@
+Task 2 - https://praviteja13.medium.com/difference-between-http-1-1-vs-http-2-a5b7d27efd6b?source=friends_link&sk=f67e160944c95b410c0e555d2184c57f
+Task 3- https://praviteja13.medium.com/difference-between-copy-by-value-and-copy-by-reference-574c1ec47227?source=friends_link&sk=97613d8a948141771580e5090c40ffcf
+Task 4 - https://praviteja13.medium.com/how-to-copy-by-value-a-composite-datatype-array-objects-44bf1800bef5?source=friends_link&sk=8d28dc7a511adc779510216d2ab4eabd
