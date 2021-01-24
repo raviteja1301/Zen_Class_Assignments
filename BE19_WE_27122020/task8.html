@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Task8</title>
+    <style>
+        .container{
+            margin-top: 40px;
+            margin-left:20px;
+            font-size:20px;
+        }
+        .tooltip {
+        position: relative;
+        display: inline-block;
+        border-bottom: 1px solid black;
+        }
+
+        .tooltip .tooltiptext {
+        visibility: hidden;
+        width: 60px;
+        font-size: 14px;
+        background-color: rgb(143, 143, 143);
+        color: #fff;
+        text-align: center;
+        border-radius: 6px;
+        padding: 5px 0;
+
+        position: absolute;
+        z-index: 1;
+        bottom: 100%;
+        left: 60%;
+        margin-left: -40px;
+        }
+
+        .tooltip:hover .tooltiptext {
+        visibility: visible;
+        }
+            </style>
+</head>
+
+
+<body>
+    <div class="container">
+        Please hover over this 
+        <div class="tooltip">Element
+            <span class="tooltiptext">Tooltip</span>
+        </div>
+    </div>
+    
+</body>
+</html>
